@@ -40,6 +40,17 @@ On running script, There will be two options to select from.
 
 **Note:** - If you have a python IDLE then simply double click on subtitle_downloader.py to run script.
 
+Screenshots
+---------------
+
+<img src="/screenshots/001.png" alt="Subtitle Downloader"/>
+
+<img src="/screenshots/002.png" alt="Subtitle Downloader"/>
+
+<img src="/screenshots/003.png" alt="Subtitle Downloader"/>
+
+<img src="/screenshots/004.png" alt="Subtitle Downloader"/>
+
 Configuration
 ---------------
 
