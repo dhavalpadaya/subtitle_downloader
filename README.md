@@ -10,10 +10,10 @@ The easiest way to get started is to clone the repository:
 
 ```bash
 # Get the latest snapshot
-git clone https://github.com/dhavalpadaya/subtitle-downloader.git subtitle-downloader
+git clone https://github.com/dhavalpadaya/subtitle_downloader.git subtitle_downloader
 
 # Change directory
-cd subtitle-downloader
+cd subtitle_downloader
 
 # Install Guessit
 # guessIt is a python library that extracts as much information as possible from a video filename. http://guessit.io
